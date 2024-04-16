@@ -24,7 +24,7 @@ def question1():
     '''
 
     '''CHECK THE CALCULATION - 1 decimal by factor of 10 OR COULD BE CORRECT'''
-    answers['(c)'] = 0.08
+    answers['(c)'] = 0.1
     return answers
 
 
